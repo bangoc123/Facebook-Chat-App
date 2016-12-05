@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>428074756661-9lrute0urql9j2v9sev002ctlvlndhc1.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.428074756661-9lrute0urql9j2v9sev002ctlvlndhc1</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA_kngt7oq4ARbLd4uS5Jd1crIQLTtKNtM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>428074756661</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>gdg.demo.BangocChatAppFirebase</string>
+	<key>PROJECT_ID</key>
+	<string>facebookchat-3b976</string>
+	<key>STORAGE_BUCKET</key>
+	<string>facebookchat-3b976.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:428074756661:ios:d1b927f4a45304e0</string>
+	<key>DATABASE_URL</key>
+	<string>https://facebookchat-3b976.firebaseio.com</string>
+</dict>
+</plist>
